@@ -1,0 +1,575 @@
+{
+    "replacerules.rules": {
+        "RogueTrader1": {
+            "find": "條",
+            "replace": "条"
+        },
+        "RogueTrader2": {
+            "find": "虛",
+            "replace": "虚"
+        },
+        "RogueTrader3": {
+            "find": "艙",
+            "replace": "舱"
+        },
+        "RogueTrader4": {
+            "find": "來",
+            "replace": "来"
+        },
+        "RogueTrader5": {
+            "find": "夠",
+            "replace": "够"
+        },
+        "RogueTrader6": {
+            "find": "戰",
+            "replace": "战"
+        },
+        "RogueTrader7": {
+            "find": "裝",
+            "replace": "装"
+        },
+        "RogueTrader8": {
+            "find": "從",
+            "replace": "从"
+        },
+        "RogueTrader9": {
+            "find": "滿",
+            "replace": "满"
+        },
+        "RogueTrader10": {
+            "find": "營",
+            "replace": "营"
+        },
+        "RogueTrader11": {
+            "find": "經",
+            "replace": "经"
+        },
+        "RogueTrader12": {
+            "find": "驗",
+            "replace": "验"
+        },
+        "RogueTrader13": {
+            "find": "彈",
+            "replace": "弹"
+        },
+        "RogueTrader14": {
+            "find": "檢",
+            "replace": "检"
+        },
+        "RogueTrader15": {
+            "find": "當",
+            "replace": "当"
+        },
+        "RogueTrader16": {
+            "find": "點",
+            "replace": "点"
+        },
+        "RogueTrader17": {
+            "find": "數",
+            "replace": "数"
+        },
+        "RogueTrader18": {
+            "find": "擊",
+            "replace": "击"
+        },
+        "RogueTrader19": {
+            "find": "韌",
+            "replace": "韧"
+        },
+        "RogueTrader20": {
+            "find": "疊",
+            "replace": "叠"
+        },
+        "RogueTrader21": {
+            "find": "斷",
+            "replace": "断"
+        },
+        "RogueTrader22": {
+            "find": "沒",
+            "replace": "没"
+        },
+        "RogueTrader23": {
+            "find": "產",
+            "replace": "产"
+        },
+        "RogueTrader24": {
+            "find": "暈",
+            "replace": "晕"
+        },
+        "RogueTrader25": {
+            "find": "實",
+            "replace": "实"
+        },
+        "RogueTrader26": {
+            "find": "狀",
+            "replace": "状"
+        },
+        "RogueTrader27": {
+            "find": "惡",
+            "replace": "恶"
+        },
+        "RogueTrader28": {
+            "find": "幫",
+            "replace": "帮"
+        },
+        "RogueTrader29": {
+            "find": "豐",
+            "replace": "丰"
+        },
+        "RogueTrader30": {
+            "find": "寶",
+            "replace": "宝"
+        },
+        "RogueTrader31": {
+            "find": "饋",
+            "replace": "馈"
+        },
+        "RogueTrader32": {
+            "find": "險",
+            "replace": "险"
+        },
+        "RogueTrader33": {
+            "find": "禮",
+            "replace": "礼"
+        },
+        "RogueTrader34": {
+            "find": "檔",
+            "replace": "档"
+        },
+        "RogueTrader35": {
+            "find": "帶",
+            "replace": "带"
+        },
+        "RogueTrader36": {
+            "find": "續",
+            "replace": "续"
+        },
+        "RogueTrader37": {
+            "find": "擇",
+            "replace": "择"
+        },
+        "RogueTrader38": {
+            "find": "號",
+            "replace": "号"
+        },
+        "RogueTrader39": {
+            "find": "毀",
+            "replace": "毁"
+        },
+        "RogueTrader40": {
+            "find": "卻",
+            "replace": "却"
+        },
+        "RogueTrader41": {
+            "find": "國",
+            "replace": "国"
+        },
+        "RogueTrader42": {
+            "find": "擴",
+            "replace": "扩"
+        },
+        "RogueTrader43": {
+            "find": "區",
+            "replace": "区"
+        },
+        "RogueTrader44": {
+            "find": "觸",
+            "replace": "触"
+        },
+        "RogueTrader45": {
+            "find": "鬥",
+            "replace": "斗"
+        },
+        "RogueTrader46": {
+            "find": "變",
+            "replace": "变"
+        },
+        "RogueTrader47": {
+            "find": "穩",
+            "replace": "稳"
+        },
+        "RogueTrader48": {
+            "find": "儘",
+            "replace": "尽"
+        },
+        "RogueTrader49": {
+            "find": "鑰",
+            "replace": "钥"
+        },
+        "RogueTrader50": {
+            "find": "處",
+            "replace": "处"
+        },
+        "RogueTrader51": {
+            "find": "碼",
+            "replace": "码"
+        },
+        "RogueTrader52": {
+            "find": "奧",
+            "replace": "奥"
+        },
+        "RogueTrader53": {
+            "find": "爾",
+            "replace": "尔"
+        },
+        "RogueTrader54": {
+            "find": "萊",
+            "replace": "莱"
+        },
+        "RogueTrader55": {
+            "find": "茲",
+            "replace": "兹"
+        },
+        "RogueTrader56": {
+            "find": "婭",
+            "replace": "娅"
+        },
+        "RogueTrader57": {
+            "find": "蘭",
+            "replace": "兰"
+        },
+        "RogueTrader58": {
+            "find": "澤",
+            "replace": "泽"
+        },
+        "RogueTrader59": {
+            "find": "瑪",
+            "replace": "玛"
+        },
+        "RogueTrader60": {
+            "find": "賽",
+            "replace": "赛"
+        },
+        "RogueTrader61": {
+            "find": "絲",
+            "replace": "丝"
+        },
+        "RogueTrader62": {
+            "find": "薩",
+            "replace": "萨"
+        },
+        "RogueTrader63": {
+            "find": "贊",
+            "replace": "赞"
+        },
+        "RogueTrader64": {
+            "find": "盧",
+            "replace": "卢"
+        },
+        "RogueTrader65": {
+            "find": "歷",
+            "replace": "历"
+        },
+        "RogueTrader66": {
+            "find": "魯",
+            "replace": "鲁"
+        },
+        "RogueTrader67": {
+            "find": "邁",
+            "replace": "迈"
+        },
+        "RogueTrader68": {
+            "find": "榮",
+            "replace": "荣"
+        },
+        "RogueTrader69": {
+            "find": "邊",
+            "replace": "边"
+        },
+        "RogueTrader70": {
+            "find": "爭",
+            "replace": "争"
+        },
+        "RogueTrader71": {
+            "find": "盡",
+            "replace": "尽"
+        },
+        "RogueTrader72": {
+            "find": "獵",
+            "replace": "猎"
+        },
+        "RogueTrader73": {
+            "find": "雙",
+            "replace": "双"
+        },
+        "RogueTrader74": {
+            "find": "圖",
+            "replace": "图"
+        },
+        "RogueTrader75": {
+            "find": "繼",
+            "replace": "继"
+        },
+        "RogueTrader76": {
+            "find": "關",
+            "replace": "关"
+        },
+        "RogueTrader77": {
+            "find": "鄰",
+            "replace": "邻"
+        },
+        "RogueTrader78": {
+            "find": "總",
+            "replace": "总"
+        },
+        "RogueTrader79": {
+            "find": "欄",
+            "replace": "栏"
+        },
+        "RogueTrader80": {
+            "find": "輕",
+            "replace": "轻"
+        },
+        "RogueTrader81": {
+            "find": "錄",
+            "replace": "录"
+        },
+        "RogueTrader82": {
+            "find": "螢",
+            "replace": "萤"
+        },
+        "RogueTrader83": {
+            "find": "單",
+            "replace": "单"
+        },
+        "RogueTrader84": {
+            "find": "圍",
+            "replace": "围"
+        },
+        "RogueTrader85": {
+            "find": "佔",
+            "replace": "占"
+        },
+        "RogueTrader86": {
+            "find": "聯",
+            "replace": "联"
+        },
+        "RogueTrader87": {
+            "find": "兩",
+            "replace": "两"
+        },
+        "RogueTrader88": {
+            "find": "畫",
+            "replace": "画"
+        },
+        "RogueTrader89": {
+            "find": "啟",
+            "replace": "启"
+        },
+        "RogueTrader90": {
+            "find": "據",
+            "replace": "据"
+        },
+        "RogueTrader91": {
+            "find": "嘗",
+            "replace": "尝"
+        },
+        "RogueTrader92": {
+            "find": "隱",
+            "replace": "隐"
+        },
+        "RogueTrader93": {
+            "find": "舉",
+            "replace": "举"
+        },
+        "RogueTrader94": {
+            "find": "燒",
+            "replace": "烧"
+        },
+        "RogueTrader95": {
+            "find": "醫",
+            "replace": "医"
+        },
+        "RogueTrader96": {
+            "find": "閱",
+            "replace": "阅"
+        },
+        "RogueTrader97": {
+            "find": "讀",
+            "replace": "读"
+        },
+        "RogueTrader98": {
+            "find": "參",
+            "replace": "参"
+        },
+        "RogueTrader99": {
+            "find": "劃",
+            "replace": "划"
+        },
+        "RogueTrader100": {
+            "find": "徑",
+            "replace": "径"
+        },
+        "RogueTrader101": {
+            "find": "學",
+            "replace": "学"
+        },
+        "RogueTrader102": {
+            "find": "餘",
+            "replace": "余"
+        },
+        "RogueTrader103": {
+            "find": "牆",
+            "replace": "墙"
+        },
+        "RogueTrader104": {
+            "find": "礙",
+            "replace": "碍"
+        },
+        "RogueTrader105": {
+            "find": "藥",
+            "replace": "药"
+        },
+        "RogueTrader106": {
+            "find": "遙",
+            "replace": "遥"
+        },
+        "RogueTrader107": {
+            "find": "殘",
+            "replace": "残"
+        },
+        "RogueTrader108": {
+            "find": "鈕",
+            "replace": "钮"
+        },
+        "RogueTrader109": {
+            "find": "壯",
+            "replace": "壮"
+        },
+        "RogueTrader110": {
+            "find": "獨",
+            "replace": "独"
+        },
+        "RogueTrader111": {
+            "find": "價",
+            "replace": "价"
+        },
+        "RogueTrader112": {
+            "find": "鏈",
+            "replace": "链"
+        },
+        "RogueTrader113": {
+            "find": "靈",
+            "replace": "灵"
+        }
+    },
+    "replacerules.rulesets": {
+        "行商浪人：移除不支援的繁體字": {
+            "rules": [
+                "RogueTrader1",
+                "RogueTrader2",
+                "RogueTrader3",
+                "RogueTrader4",
+                "RogueTrader5",
+                "RogueTrader6",
+                "RogueTrader7",
+                "RogueTrader8",
+                "RogueTrader9",
+                "RogueTrader10",
+                "RogueTrader11",
+                "RogueTrader12",
+                "RogueTrader13",
+                "RogueTrader14",
+                "RogueTrader15",
+                "RogueTrader16",
+                "RogueTrader17",
+                "RogueTrader18",
+                "RogueTrader19",
+                "RogueTrader20",
+                "RogueTrader21",
+                "RogueTrader22",
+                "RogueTrader23",
+                "RogueTrader24",
+                "RogueTrader25",
+                "RogueTrader26",
+                "RogueTrader27",
+                "RogueTrader28",
+                "RogueTrader29",
+                "RogueTrader30",
+                "RogueTrader31",
+                "RogueTrader32",
+                "RogueTrader33",
+                "RogueTrader34",
+                "RogueTrader35",
+                "RogueTrader36",
+                "RogueTrader37",
+                "RogueTrader38",
+                "RogueTrader39",
+                "RogueTrader40",
+                "RogueTrader41",
+                "RogueTrader42",
+                "RogueTrader43",
+                "RogueTrader44",
+                "RogueTrader45",
+                "RogueTrader46",
+                "RogueTrader47",
+                "RogueTrader48",
+                "RogueTrader49",
+                "RogueTrader50",
+                "RogueTrader51",
+                "RogueTrader52",
+                "RogueTrader53",
+                "RogueTrader54",
+                "RogueTrader55",
+                "RogueTrader56",
+                "RogueTrader57",
+                "RogueTrader58",
+                "RogueTrader59",
+                "RogueTrader60",
+                "RogueTrader61",
+                "RogueTrader62",
+                "RogueTrader63",
+                "RogueTrader64",
+                "RogueTrader65",
+                "RogueTrader66",
+                "RogueTrader67",
+                "RogueTrader68",
+                "RogueTrader69",
+                "RogueTrader70",
+                "RogueTrader71",
+                "RogueTrader72",
+                "RogueTrader73",
+                "RogueTrader74",
+                "RogueTrader75",
+                "RogueTrader76",
+                "RogueTrader77",
+                "RogueTrader78",
+                "RogueTrader79",
+                "RogueTrader80",
+                "RogueTrader81",
+                "RogueTrader82",
+                "RogueTrader83",
+                "RogueTrader84",
+                "RogueTrader85",
+                "RogueTrader86",
+                "RogueTrader87",
+                "RogueTrader88",
+                "RogueTrader89",
+                "RogueTrader90",
+                "RogueTrader91",
+                "RogueTrader92",
+                "RogueTrader93",
+                "RogueTrader94",
+                "RogueTrader95",
+                "RogueTrader96",
+                "RogueTrader97",
+                "RogueTrader98",
+                "RogueTrader99",
+                "RogueTrader100",
+                "RogueTrader101",
+                "RogueTrader102",
+                "RogueTrader103",
+                "RogueTrader104",
+                "RogueTrader105",
+                "RogueTrader106",
+                "RogueTrader107",
+                "RogueTrader108",
+                "RogueTrader109",
+                "RogueTrader110",
+                "RogueTrader111",
+                "RogueTrader112",
+                "RogueTrader113"
+            ]
+        }
+    }
+}

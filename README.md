@@ -9,8 +9,8 @@
 ### 安裝翻譯字串
 
 1. 下載 `zhCN.json` 檔案
-2. 複製到遊戲安裝目錄下的 WH40KRT_Data/StreamingAsset夾下並覆蓋 (建議可先備份原始檔案)
-3. 開啟遊戲，選擇「繁體中文」
+2. 複製到遊戲安裝目錄 `%SteamLibrary%\steamapps\common\Warhammer 40,000 Rogue Trader\WH40KRT_Data\StreamingAssets\Localization` 下並覆蓋 (建議可先備份原始檔案)
+  ![screenshot_Loc](screenshot_Loc.jpg)
 
 ### 安裝字體模組
 
@@ -33,8 +33,7 @@
 
 ## 注意事項
 
-- 使用此翻譯會覆蓋掉原本官方的簡體中文選項
-- `vscode_settings.json` 是 VSCode extension [Replace Rules](https://marketplace.visualstudio.com/items?itemName=bhughes339.replacerules) 的設定
+- 使用此翻譯會覆蓋掉原本官方的簡體中文選項 (變為「繁體中文」)
 
 ---
 

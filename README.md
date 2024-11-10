@@ -6,9 +6,11 @@
 
 ## 使用方式
 
+請按照步驟依序安裝翻譯字串、字體模組、以及遊戲內相關設定
+
 ### 安裝翻譯字串
 
-1. 下載 `zhCN.json` 檔案
+1. 下載 [zhCN.json](./WH40KRT_Data/StreamingAssets/Localization/zhCN.json) 檔案
 2. 複製到遊戲安裝目錄 `%SteamLibrary%\steamapps\common\Warhammer 40,000 Rogue Trader\WH40KRT_Data\StreamingAssets\Localization` 下並覆蓋 (建議可先備份原始檔案)
   ![screenshot_Loc](screenshot_Loc.jpg)
 
@@ -24,8 +26,8 @@
 
 ### 在遊戲中啟用繁體中文
 
-1. 開啟遊戲，在遊戲主選單 > 設置 > 遊戲設置 > 語言中選擇「繁體中文」
-2. 按 Ctrl + F10 (或主選單 > DLC與模組 > 模組 > 已安裝模組 > FontMod 右邊的齒輪) 開啟 Unity Mod Manager
+1. 開啟遊戲，在遊戲主選單 > 設置 (Settings) > 遊戲設置 (Game Settings) > 語言 (Language) 中選擇「繁體中文」
+2. 按 Ctrl + F10 (或主選單 > DLC與模組 (DLCs and Mods) > 模組 (Mods) > 已安裝模組 (Installed mods) > FontMod 右邊的齒輪) 開啟 Unity Mod Manager
 3. 點開 FontMod ，並在下方 Current Mappings 中的 default 按右邊的 M 按鈕，選擇字體
     ![screenshot_fontModUMM](screenshot_fontModUMM.jpg)
 4. FontMod 設定上方有一個「Refresh Scene Fonts」按鈕，點選後會重新載入字體

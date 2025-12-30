@@ -14,7 +14,7 @@
 
 此翻譯字串並非單純繁簡體轉換，其中有將部分字串做調整以符合繁體中文的習慣，若發現翻譯錯誤或有更好的建議，歡迎提出 issue 或 pull request。
 
-此翻譯版本為 Rogue Trader 1.2.1.19
+此翻譯版本為 Rogue Trader 1.4.1.231
 
 ![20241110231719_1](screenshots/20241110231719_1.jpg)
 ![20241110231725_1](screenshots/20241110231725_1.jpg)
@@ -44,7 +44,8 @@
 
 此專案內沒有包含字體模組，字體模組由 [thehambeard/FontMod](https://github.com/thehambeard/FontMod/) 製作與提供
 
-1. 下載字體模組 [FontMod](https://github.com/thehambeard/FontMod/releases/tag/1.0.0)
+1. 下載字體模組 [FontMod](https://github.com/thehambeard/FontMod/releases)
+> 提示：請至 FontMod 的 Releases 頁面（上方連結）確認並下載最新版本（以 Release 標記或帶版本號的檔案為主）。以下僅用 1.0.0 作為範例。
 2. 將解壓縮的資料夾「FontMod-1.0.0」放到遊戲目錄下  
    (完整路徑為 `%USERPROFILE%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\UnityModManager\`)
    ![screenshot_fontModFolder](screenshots/screenshot_fontModFolder.jpg)
